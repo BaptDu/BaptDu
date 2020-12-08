@@ -1,22 +1,5 @@
 ## Welcome to my GitHub profile 🥳
 
-```JavaScript
-{
-  name: 'Baptiste DUMONT',
-  nickname: 'BaptDu',
-  age: 22,
-  location: {
-    country: 'France',
-    city: 'Macon'
-  },
-  study: 'Master degree in Web development',
-  hobbies: [
-    'Web projects',
-    'Gardening',
-  ]
-}
-```
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=BaptDu)
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=BaptDu&layout=compact)
 
