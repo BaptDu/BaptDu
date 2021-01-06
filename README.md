@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/BaptDu?template=classic&languages=1&pagespeed=1&projects=1&stars=1&pagespeed.detailed=true&pagespeed.screenshot=true&projects.limit=10&stars.limit=4&config.timezone=Europe%2FParis)
+![Metrics](https://github.com/BaptDu/BaptDu/blob/main/github-metrics.svg)

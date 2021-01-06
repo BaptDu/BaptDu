@@ -19,12 +19,23 @@ jobs:
           user: BaptDu
           template: classic
           base: header, activity, community, repositories, metadata
+          
           config_timezone: Europe/Paris
+          config_padding: 6%
+          
           plugin_languages: yes
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
+          
+          plugin_pagespeed_url: https://dumontbaptiste.fr
+          
           plugin_pagespeed_screenshot: yes
+          
           plugin_projects: yes
           plugin_projects_limit: 10
-          plugin_stars: yes
-          plugin_stars_limit: 4
+          
+          plugin_isocalendar: yes
+          
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
