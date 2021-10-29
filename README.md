@@ -5,23 +5,6 @@
 
 <a align="right" href="https://app.daily.dev/BaptDuF"><img src="https://github.com/BaptDu/BaptDu/blob/main/devcard.svg" width="400" alt="Baptiste Dumont's Dev Card"/></a>
 
-```typescript
- class WhoAmI {
-    user: string;
-    last_edu: string;
-    currently_learning: string;
-    hobbies: string[];
-
-    constructor(user: string, last_edu: string,currently_learning: string, hobbies: string[]) {
-        this.user = user;
-        this.last_edu = last_edu;
-        this.currently_learning = theName;
-        this.hobbies = theName;
-  }
-
-  Const BaptDu: WhoAmI = new WhoAmI("Baptiste Dumont", "Campus Ynov Lyon", "Ansible", ["Cooking", "Gardening", "Development"]);
-}
-```
 </BR>
 
  ## Github Stats
