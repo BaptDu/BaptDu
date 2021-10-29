@@ -3,7 +3,7 @@
    <a align="center" href="#"><img alt="MYSQL" src="https://img.shields.io/badge/Developer_Web-000000?style=for-the-badge&logo=&logoColor=white"></a>
 ## Who am I?
 
-<a align="right" href="https://app.daily.dev/BaptDuM"><img src="https://github.com/BaptDu/BaptDu/blob/master/devcard.svg" width="400" alt="Baptiste Dumont's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/BaptDuF"><img src="https://github.com/BaptDu/BaptDu/blob/main/devcard.svg" width="400" alt="Baptiste Dumont's Dev Card"/></a>
 
 ```typescript
  class WhoAmI {
