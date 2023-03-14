@@ -1,4 +1,4 @@
-## Hi there, 👋  I'm  Baptiste Dumont
+## Hi there, 👋 I'm  Baptiste Dumont
 
    <a align="center" href="#"><img alt="MYSQL" src="https://img.shields.io/badge/Developer_Web-000000?style=for-the-badge&logo=&logoColor=white"></a>
 ## Who am I?
